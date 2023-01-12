@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    color: violet;
+}
+button{
+    background-color: mediumslateblue;
+    font-size: 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 14px;
+}
